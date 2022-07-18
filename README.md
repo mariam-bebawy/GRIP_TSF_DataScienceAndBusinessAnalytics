@@ -17,4 +17,5 @@ Tasks' list:
     * predicting the class of the given data according to the trained tree  
 * [Task 7](./task_7/task_7.ipynb) : *Stock Market Prediction Using Numerical and Textual Analysis*  
     * predicting stock price/performance using historical stock data
-* [Task 8](./task_8/task_8.ipynb) : 
+* [Task 8](./task_8/task_8.ipynb) : *Timeline Analysis - COVID-19*  
+    * identify interesting patterns and possible reasons helping the spread of COVID-19
