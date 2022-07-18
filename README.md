@@ -15,5 +15,6 @@ Tasks' list:
     * performing EDA to find the most successful teams and players  
 * [Task 6](./task_6/task_6.ipynb) : *Prediction Using Decision Tree Algorithm*  
     * predicting the class of the given data according to the trained tree  
-* [Task 7](./task_7/task_7.ipynb) : 
+* [Task 7](./task_7/task_7.ipynb) : *Stock Market Prediction Using Numerical and Textual Analysis*  
+    * predicting stock price/performance using historical stock data
 * [Task 8](./task_8/task_8.ipynb) : 
