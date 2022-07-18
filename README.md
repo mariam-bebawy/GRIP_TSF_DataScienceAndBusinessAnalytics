@@ -11,7 +11,8 @@ Tasks' list:
     * performing EDA to find the weak areas and increases profits
 * [Task 4](./task_4/task_4.ipynb) : *Exploratory Data Analysis - Terrorism*  
     * performing EDA to find the hot zones of terrorism and some insights
-* [Task 5](./task_5/task_5.ipynb) : 
+* [Task 5](./task_5/task_5.ipynb) : *Exploratory Data Analysis - Sports*
+    * performing EDA to find the most successful teams and players
 * [Task 6](./task_6/task_6.ipynb) : 
 * [Task 7](./task_7/task_7.ipynb) : 
 * [Task 8](./task_8/task_8.ipynb) : 
